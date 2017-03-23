@@ -1,0 +1,13 @@
+The project take about how to make  scentific calculator which do some mathamtical operations such as :
+Calculate absoluate value for any integer number when    user enter a number  it calculate absoulate value of this number.
+Calculate factorial for any integer number when user enter a number  it calculate factorial of this number.
+Calculate power function when user enter a base and exponent  it calculate power.
+Do arithmetic operation for any two numbers when user enter frist number and operator (+,-,*,/)  and second number it calculate operation and print result.
+Do arithmetic operation for any two fraction numbers when user enter frist fraction and operator (+,-,*,/)  and second fraction it calculate operation and print result.
+
+Do arithmetic operation for any two complex numbers when user enter frist complex number and operator (+,-,*,/)  and second complex number it calculate operation and print result.
+Calculate two roots for quadratic equation when user enter the factors of equation a*X^2+b*X+c=0 it calculate X1and X2.
+Calculate square root for any integer number when user enter the number it calculate the squarer and print result.
+Calculate triangle finctions when user enter the angle and select function (sin,cos,tan) it calculate  and print result.
+Calculate logarithm function when user enter a number it calculate ln(number).
+Convert between systems.
